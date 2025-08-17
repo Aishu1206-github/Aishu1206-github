@@ -22,7 +22,7 @@
 
 ### 🚀 Featured Projects
 - 📝 [*To-Do App*](https://github.com/Aishu1206-github/react_projects/tree/main/todo-app-mp) – Manage daily tasks with add/edit/delete features.  
-- 🎬 [*IMDB Clone*](https://github.com/Aishu1206-github/react_projects/tree/main/imdb-clone) – Search and explore movies with API integration.  
+- 🎬 [*IMDB Clone*](https://github.com/Aishu1206-github/React_Course/tree/main/imdb-clone) – Search and explore movies with API integration.  
 - 🌐 [*Portfolio Website*](https://github.com/Aishu1206-github/react_projects/tree/main/Portfolio) – Personal portfolio showcasing my skills & projects.  
 
 ---
