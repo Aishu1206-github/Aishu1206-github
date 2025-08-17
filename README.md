@@ -22,7 +22,7 @@
 
 ### 🚀 Featured Projects
 - 🚖 [*Cab-booking Application*](https://github.com/Aishu1206-github/Cab-Booking-System) – Book cabs dynamically, search and navigate easily.  
-- 🚀 [*TechYouth_CareerPath*](https://github.com/Aishu1206-github/TechYouth_CareerPath) – Explore career paths with eligibility, skills, and roadmap also Integrated career counseling           chatbot 🤖
+- 🚀 [*TechYouth_CareerPath*](https://github.com/Aishu1206-github/TechYouth_CareerPath) – Explore career paths with eligibility, skills, and roadmap also Integrated career counseling chatbot 🤖
 - 🎬 [*IMDB Clone*](https://github.com/Aishu1206-github/React_Course/tree/main/imdb-clone) – Search and explore movies with API integration.  
 - 🌐 [*Portfolio Website*](https://github.com/Aishu1206-github/react_projects/tree/main/Portfolio) – Personal portfolio showcasing my skills & projects.  
 
