@@ -1,42 +1,58 @@
-## Hi there 👋  I'm Aishwarya Jadhav
+<h1 align="center">Hi 👋, I'm Aishwarya Jadhav</h1>
 
-💻 MCA Postgraduate | 🚀 Frontend Developer | 📚 Aggressive Learner  
-
----
-
-## 👩‍💻 About Me
-- 🔭 I’m currently working on *React.js projects*
-- 🌱 I’m interested to learning *AI & Robotics*
-- 👯 I’m looking to collaborate on *Full-Stack projects*
-- 💡 Passionate about building *modern, scalable applications*
-- ⚡ Fun fact: I never stop learning new things!
+<h3 align="center">💻 MCA Postgraduate | 🚀 Frontend Developer | 📚 Aggressive Learner</h3>
 
 ---
 
-## 🛠 Tech Stack
-*Languages & Tools:*  
-• HTML • CSS • JavaScript • React.js • Java • Node.js • MySQL • Git/GitHub  
-• Bootstrap • REST API
+### 🌟 About Me
+- 🔭 Currently working on *React.js projects*
+- 🌱 Exploring *AI & RPA*
+- 👯 Open to collaborate on *Full-Stack applications*
+- 💡 I love to *design modern, scalable applications*
+- ⚡ Fun fact: I debug faster with a coffee ☕
 
 ---
 
-## 📂 Featured Projects
-- 📝 [To-Do App](https://github.com/Aishu1206-github/react_projects/tree/main/todo-app-mp)  
-- 🎬 [IMDB Clone](https://github.com/Aishu1206-github/react_projects/tree/main/imdb-clone)  
-- 🌐 [Portfolio Website](https://github.com/Aishu1206-github/react_projects/tree/main/Portfolio)  
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,nodejs,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![Aishwarya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aishu1206-github&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishu1206-github&layout=compact&theme=radical)
+### 🚀 Featured Projects
+- 📝 [*To-Do App*](https://github.com/Aishu1206-github/react_projects/tree/main/todo-app-mp) – Manage daily tasks with add/edit/delete features.  
+- 🎬 [*IMDB Clone*](https://github.com/Aishu1206-github/react_projects/tree/main/imdb-clone) – Search and explore movies with API integration.  
+- 🌐 [*Portfolio Website*](https://github.com/Aishu1206-github/react_projects/tree/main/Portfolio) – Personal portfolio showcasing my skills & projects.  
 
 ---
 
-## 📫 Connect with Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/aishwarya-jadhav-7582ab226/)  
-- 📧 Email: aishujadhav5545@gmail.com  
-- 💻 GitHub: [@Aishu1206-github](https://github.com/Aishu1206-github)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishu1206-github&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishu1206-github&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishu1206-github&layout=compact&theme=tokyonight" alt="langs" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aishu1206-github&theme=radical&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/aishwarya-jadhav-7582ab226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="aishujadhav5545@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Aishu1206-github"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ From [Aishwarya Jadhav](https://github.com/Aishu1206-github)
 
 
 ---
